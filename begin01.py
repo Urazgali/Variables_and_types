@@ -1,3 +1,3 @@
-num_one = 11
-num_two = 9
+num_one = 5
+num_two = 4
 print(num_one + num_two)
